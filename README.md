@@ -14,7 +14,7 @@ to create blocks of honey used to either remove obstacles or create platforms to
 * HUB map to access levels unlocked     
 
 ## WireFrame     
-[Level Layout](https://i.imgur.com/teBZKpT.jpg)
+![Level Layout](https://i.imgur.com/teBZKpT.jpg)
 
 ## Architecture and Technologies    
 
