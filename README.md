@@ -1,7 +1,7 @@
 # Pawlo and the Honey Thief    
 ## Background and Overview    
 
-Pawlo and the Honey Thief is a puzzle platformer inspired by a forgotten NES classic * [Fire n Ice](https://www.youtube.com/watch?v=1t782B0zK3Y). 
+Pawlo and the Honey Thief is a puzzle platformer inspired by a forgotten NES classic [Fire n Ice](https://www.youtube.com/watch?v=1t782B0zK3Y). 
 The player controls a bear named Pawlo who can control honey to his advantage, allowing the player 
 to create blocks of honey used to either remove obstacles or create platforms to clear the level.
 
@@ -14,7 +14,7 @@ to create blocks of honey used to either remove obstacles or create platforms to
 * HUB map to access levels unlocked     
 
 ## WireFrame     
-
+[Level Layout](https://i.imgur.com/teBZKpT.jpg)
 
 ## Architecture and Technologies    
 
